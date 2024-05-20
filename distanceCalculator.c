@@ -1,3 +1,8 @@
+/*
+Author: Tanjid Hasan Tonmoy
+Copyright: 2024, Tanjid Hasan Tonmoy
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
