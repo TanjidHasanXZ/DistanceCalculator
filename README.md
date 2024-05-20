@@ -20,5 +20,5 @@ This project calculates the total distance between a series of geographical wayp
 To compile the program, use the following command in your terminal:
 
 ```bash
-gcc -o distance_calculator distance_calculator.c -lm
+gcc -o distance_calculator distanceCalculator.c -lm
 
