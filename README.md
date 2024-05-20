@@ -22,3 +22,5 @@ To compile the program, use the following command in your terminal:
 ```bash
 gcc -o distance_calculator distanceCalculator.c -lm
 
+## Usage
+
